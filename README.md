@@ -1,5 +1,17 @@
 # SCSE3040 --- Lab Practicals
 
+Machine Learning Operations · B.Tech CSE 5th Semester · Bennett University · Session 2026-27
+
+## AI assistance disclosure
+
+I used Claude (Anthropic) for minor help during this practical —  AI was used for troubleshooting and understanding
+concepts.
+
+---
+
+Thirteen practicals, one per fortnight, all building the same running project...
+[rest of original content continues unchanged]
+
 **Machine Learning Operations · B.Tech CSE 5th Semester · Bennett University
 · Session 2026-27**
 
