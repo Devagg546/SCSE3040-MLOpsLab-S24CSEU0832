@@ -9,9 +9,6 @@ concepts.
 
 ---
 
-Thirteen practicals, one per fortnight, all building the same running project...
-[rest of original content continues unchanged]
-
 **Machine Learning Operations · B.Tech CSE 5th Semester · Bennett University
 · Session 2026-27**
 
